@@ -4,7 +4,7 @@
 
 Here we go 🚀
 
-| Acronoym | Meaning                              |
+| Acronym | Meaning                              |
 |----------|--------------------------------------|
 | LGTM     | Looks good to me                     |
 | WIP      | Work in progress - do not merge yet! |
