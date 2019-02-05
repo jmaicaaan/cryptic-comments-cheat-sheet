@@ -1,8 +1,8 @@
 # Cryptic Comments Cheat Sheet
 
-> Are you a victim of these cryptic comments? You're not alone! 🙈 Here's a quick go to guide for the goodness of these comments. 😅
+Are you a victim of these cryptic comments? You're not alone! 🙈 Here's a quick go to guide for the goodness of these comments. 😅
 
-Here we go 🚀
+## Here we go 🚀
 
 | Acronym | Meaning                              |
 |----------|--------------------------------------|
