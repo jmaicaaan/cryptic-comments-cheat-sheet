@@ -11,6 +11,7 @@ Here we go 🚀
 | AFAIK    | As far as I know                     |
 | FE       | Front end                            |
 | BE       | Back end                             |
+| FP       | Functional Programming               |
 | BTW      | By the way                           |
 | TODO     | To be done                           |
 | FWIW     | For what it's worth                  |
@@ -19,6 +20,10 @@ Here we go 🚀
 | CI       | Continuous Integration               |
 | CD       | Continuous Deployment                |
 | WS       | Workspace                            | 
+| IMO      | In my own opinion                    | 
+| DOC      | Document                             |
+| OP       | Original Poster - The person who's asking |
+
 
 ## Contributing
 I'd be glad to have your help on this cheat sheet. Open for pull requests! 🔥
