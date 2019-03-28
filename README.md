@@ -7,6 +7,7 @@ Are you a victim of these cryptic comments? You're not alone! 🙈 Here's a quic
 | Acronym | Meaning                              |
 |----------|--------------------------------------|
 | LGTM     | Looks good to me                     |
+| LGTM     | Let's Gamble. Try Merging.           |
 | WIP      | Work in progress - do not merge yet! |
 | AFAIK    | As far as I know                     |
 | FE       | Front end                            |
