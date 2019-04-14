@@ -24,6 +24,7 @@ Are you a victim of these cryptic comments? You're not alone! 🙈 Here's a quic
 | IMO      | In my own opinion                    | 
 | DOC      | Document                             |
 | OP       | Original Poster - The person who's asking |
+| TL;DR    | Too Long; Didn't Read - The person is looking for a summary |
 
 
 ## Contributing
